@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nivelacion</string>
+    <string name="correo_electr_nico">Correo Electrónico</string>
+    <string name="iniciar_sesion">INICIAR SESION</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="registrate">REGISTRATE</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="todo">TODO</string>
+</resources>
